@@ -26,12 +26,12 @@
 <div align="center">
 
 # ⭐
+  
+<br>
 
-### 01
-
-**Course name:** Demo
-
-![Demo Certificate](certificates/demo.png)
+| S no | Course name | Certificate link |
+|--|--|--|
+| 01 | Demo Course by demo company| [View Certificate](https://google.com) 
 
 </div>
 
