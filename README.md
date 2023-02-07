@@ -17,7 +17,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=azlibdar&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azlibdar&theme=dark&hide_border=true&show_icons=true&locale=en" alt="azlibdar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azlibdar&theme=dark&hide_border=true" alt="azlibdar" /></p>
 
 </div>
 
