@@ -27,20 +27,6 @@
 
 <div align="center">
 
-# ⭐
-  
-<br>
-
-| S no | Course name | Certificate link |
-|--|--|--|
-| 01 | Demo Course by demo company| [View Certificate](https://google.com) 
-
-</div>
-
-<br><br>
-
-<div align="center">
-
 # 💰 You can help me by Donating
 <br>
 
