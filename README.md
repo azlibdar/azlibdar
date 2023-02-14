@@ -1,6 +1,6 @@
 <h1 align="center">Hello, My name is Azlan Ibrahim</h1>
 <br>
-<p align="center">I am a CSE student with frontend expertise and currently learning DevOps, <br> interested in open-source and a regular blogger.</p>
+<p align="center">Hi, I'm Azlan Ibrahim, a Pythonista with a passion for design. I'm currently expanding my skills in DevOps and enjoy contributing to open-source projects. You can find my articles and tutorials on @hashnode.</p>
 
 <div align="center">
 
