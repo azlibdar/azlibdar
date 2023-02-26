@@ -1,6 +1,6 @@
 <h1 align="center">Hello, My name is Azlan Ibrahim</h1>
 <br>
-<p align="center">Hi, I'm Azlan Ibrahim, CS Student with a passion for transitioning from algorithms to aesthetics. I share my experiences and insights on design and technology on my blog @hashnode</p>
+<p align="center">Hi, I'm Azlan Ibrahim, CS Student with a passion for transitioning from algorithms to aesthetics, open-source front-end, mastering UI/UX design for captivating user experiences.</p>
 
 <div align="center">
 
