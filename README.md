@@ -9,7 +9,6 @@
 [![Biolink](https://img.shields.io/badge/Biolink-%230077B5.svg?logo=safari&logoColor=white)](https://azlibdar.bio.link/) &nbsp;&nbsp;&nbsp;&nbsp; [
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azlibdar) &nbsp;&nbsp;&nbsp;&nbsp; [
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/azlibdar) &nbsp;&nbsp;&nbsp;&nbsp; [
-![Hashnode](https://img.shields.io/badge/Blog-%231DA1F2.svg?logo=Hashnode&logoColor=white)](https://azlibdar.hashnode.dev/)
 
 </div>
 
