@@ -1,16 +1,48 @@
-## Hi there 👋
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&pause=1000&color=AB8FFE&repeat=false&random=false&width=1200&height=100&lines=Hello!" alt="Typing SVG" />
+</h2>
 
-<!--
-**azlibdar/azlibdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Azlan Ibrahim (Designer & Developer)
+- Constantly learning, building, and pushing
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Current
+<div>
+  <img src="https://skillicons.dev/icons?i=html" height="48" width="48" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" width="48" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=sass" height="48" width="48" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="48" width="48" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" width="48" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" width="48" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" width="48" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" width="48" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48" width="48" alt="git logo" />
+</div>
+
+<br>
+
+## Stats for nerds
+<div align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=azlibdar&theme=nord&hide_border=true&include_all_commits=false&count_private=false"
+    height="160"
+    alt="stats graph"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azlibdar&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    height="160"
+    alt="stats graph"
+  />
+</div>
+
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=azlibdar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br>
+
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azlibdar) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@azlibdar) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/azlibdar) 
