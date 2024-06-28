@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&pause=1000&color=AB8FFE&repeat=false&random=false&width=1200&height=100&lines=Hello!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&pause=1000&color=AB8FFE&repeat=true&random=false&width=1200&height=100&lines=Hello!" alt="Typing SVG" />
 </h2>
 
 - I'm Azlan Ibrahim (Designer & Developer)
