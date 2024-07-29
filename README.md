@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Gluten&size=48&duration=3000&pause=1000&repeat=false&color=AB8FFE&vCenter=true&random=false&width=1200&height=100&lines=G'day%2C+Mate!" alt="Greeting" />
 </h2>
 
-- I'm Azlan Ibrahim (Designer & Developer)
+- 🧑🏻‍💻 I'm Azlan Ibrahim 
 - Constantly learning, building, and pushing
 
 <br>
@@ -22,7 +22,7 @@
 
 <br>
 
-## Stats for nerds
+## Stats
 <div align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=azlibdar&theme=nord&hide_border=true&include_all_commits=false&count_private=false"
