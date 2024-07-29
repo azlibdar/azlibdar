@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=48&duration=3000&pause=1000&color=AB8FFE&vCenter=true&random=false&width=1200&height=100&lines=Hello!;Hola!;Assalamu+alaykum!;Namaste!;Nomoshkar!;Ol%C3%A1!;N%C7%90+h%C7%8Eo!;Konnichiwa" alt="Greeting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Gluten&size=48&duration=3000&pause=1000&repeat=false&color=AB8FFE&vCenter=true&random=false&width=1200&height=100&lines=G'day%2C+Mate!" alt="Greeting" />
 </h2>
 
 - I'm Azlan Ibrahim (Designer & Developer)
