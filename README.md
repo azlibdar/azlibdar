@@ -21,7 +21,7 @@ Frontend • Languages • Design • Tools & Platforms
   <img src="https://skillicons.dev/icons?i=postman,notion,figma,xd,illustrator,photoshop" /> 
 </a>
 
-<br>
+<br><br>
 
 > **More**
 >  
